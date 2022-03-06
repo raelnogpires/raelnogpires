@@ -46,5 +46,4 @@
 <br>
 <br>
 
-<p>Inspired in <a href"https://github.com/fumagallilaura">Laura Fumagalli</a> and <a href"https://github.com/gabrielh-silvestre">Gabriel Silvestre</a> README's.</p>
-  
+<p>Inspired in <a href="https://github.com/fumagallilaura">Laura Fumagalli</a> and <a href="https://github.com/gabrielh-silvestre">Gabriel Silvestre</a> README's.</p>
