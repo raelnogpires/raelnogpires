@@ -3,6 +3,7 @@
 <h3 align=center><b>Eu sou o Rael :)</b></h3>
 
 <p align=center>Estou em São Sebastião, litoral norte de São Paulo.</p>
+<p align=center>Tecnólogo em Gestão Pública pela <b>UNIVESP</b>.</p>
 <p align=center>Desenvolvedor Front-end.</p>
 <p align=center>Estudante de Back-end e Ciência da Computação na <b>Trybe</b>.</p>
 
