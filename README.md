@@ -32,6 +32,7 @@
 <h3 align=center><b>Ferramentas Back-end</b></h3>
 <p align=center>
 <img src="https://camo.githubusercontent.com/2d297b106ca0a6069023408b2d7b499d5c77b45a61853c7ac0055269749b0372/68747470733a2f2f646576746f6f6c732e636f6d2e62722f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031332f30362f4d7953514c2d4c6f676f2e77696e655f2e706e67" width=70>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=50>
 </p>
 
 <h3 align=center><b>Ferramentas para Testes</b></h3>
