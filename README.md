@@ -4,8 +4,8 @@
 
 <p align=center>Estou em São Sebastião, litoral norte de São Paulo.</p>
 <p align=center>Tecnólogo em Gestão Pública pela <b>UNIVESP</b>.</p>
-<p align=center>Desenvolvedor Full-stack.</p>
-<p align=center>Estudante de Back-end e Ciência da Computação na <b>Trybe</b>.</p>
+<p align=center>Desenvolvedor Back-end.</p>
+<p align=center>Estudante de Desenvolvimento Web Full-stack e Ciência da Computação na <b>Trybe</b>.</p>
 
 <h3 align=center><b>Linguagens</b></h3>
 <p align=center>
