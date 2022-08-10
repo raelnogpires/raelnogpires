@@ -14,7 +14,7 @@
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width=50>
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width=50>
 <img src="https://cdn.svgporn.com/logos/go.svg" width=80>
-<img src="https://cdn.svgporn.com/logos/python.svg" width=80>
+<img src="https://cdn.svgporn.com/logos/python.svg" width=55>
 
 </p>
 
