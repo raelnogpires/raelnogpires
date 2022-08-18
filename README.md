@@ -39,6 +39,7 @@
 <img src="https://camo.githubusercontent.com/2d297b106ca0a6069023408b2d7b499d5c77b45a61853c7ac0055269749b0372/68747470733a2f2f646576746f6f6c732e636f6d2e62722f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031332f30362f4d7953514c2d4c6f676f2e77696e655f2e706e67" width=70>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=50>
 <img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width=50>
+<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width=23>
 </p>
 
 <h3 align=center><b>Ferramentas para Testes</b></h3>
